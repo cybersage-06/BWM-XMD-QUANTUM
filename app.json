@@ -1,4 +1,5 @@
 
+
 {
   "name": "BWM-XMD-QUANTUM",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
@@ -66,17 +67,17 @@
     "HEROKU_API_KEY": {
       "description": "Enter your Heroku API key to be able to control your vars",
       "value": "",
-      "required": true 
+      "required": false 
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
       "value": "",
-      "required": true 
+      "required": false 
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
       "value": "",
-      "required": true 
+      "required": false 
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
